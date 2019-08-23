@@ -22,6 +22,7 @@
   * @retval None
 */
 
+// Test Hello world***************************
 void main(void)
 {
 	st_soft_iic tr_iic;
